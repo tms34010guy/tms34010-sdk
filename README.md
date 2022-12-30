@@ -7,4 +7,4 @@ To me, the TMS34010 is a historically significant piece of hardware due to it's 
 
 I believe if TI had access to this SDK, they would make it freely available, but they unfortunately have lost the archives (https://e2e.ti.com/support/tools/code-composer-studio-group/ccs/f/code-composer-studio-forum/995179/compiler-looking-for-older-ms-dos-tms340-tms34020-coff-compiler-assembler-linker-gsplnk-exe-preasm-exe-for-axx-and-others). 
 
-The most important tools-- the ASM & C SDK tools are all here.
+The most important tools-- the ASM & C SDK tools are all here. There's two versions of the SDK from 1987 and 1990, and many revisions of the documentation as well.
